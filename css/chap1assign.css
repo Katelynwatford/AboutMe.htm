@@ -1,0 +1,17 @@
+* {
+	font-family: verdana;
+}
+
+body {
+	background-color: #ff4a79;
+}
+
+h1 {
+	color: #FFF;
+}
+
+img {
+	width: 110px;
+	height: 110px;
+	border-radius: 10px;
+}
